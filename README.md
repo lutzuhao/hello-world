@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Learning
+Hello, there
+
+new to learn Language like this.
